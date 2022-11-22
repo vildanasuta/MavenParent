@@ -11,6 +11,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="MavenChild1" />
+        <module name="MavenChild" />
       </profile>
     </annotationProcessing>
   </component>
